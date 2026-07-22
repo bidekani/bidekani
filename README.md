@@ -6,7 +6,7 @@ google-site-verification: google8258150ae6d4988c.html
 # Karamat Mansouri
 ###### Karamat Mansouri Bidekani
 
-**Senior AI/Software Engineer** | MLOps & LLM Platform Architect | 18+ Years in Software Engineering
+**Senior AI/Software Engineer** | MLOps & LLM Platform Architect | 20+ Years in Software Engineering
 
 I design AI platforms and help organizations scale AI adoption — from architecture to production. Currently at **Volvo Group**, building Model-Ops platforms, RAG architectures, and LLM evaluation frameworks.
 
@@ -57,7 +57,7 @@ Methodology         ████████████████████
 ## 🏗️ What I Build
 
 ### Model-Ops & AI Governance
-Designing platforms for model lifecycle management — lineage tracking, versioning, deployment governance, and compliance with enterprise AI standards.
+Designing platforms for model lifecycle management lineage tracking, versioning, deployment governance, and compliance with enterprise AI standards.
 
 ### RAG Systems
 Building retrieval-augmented generation architectures from vector search to hierarchical document parsing, optimized for enterprise knowledge bases.
